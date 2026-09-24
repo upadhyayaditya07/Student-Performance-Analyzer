@@ -1,1 +1,2 @@
-# No external packages are required.
+# No external Python packages are required.
+# Python 3.9 or later is recommended.
